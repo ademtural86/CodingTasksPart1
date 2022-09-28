@@ -4,7 +4,7 @@ public class Number9 {
 
 	public static void main(String[] args) {
 
-		// Maximum and minimum number in the array?
+		// Maximum and minimum number in the array
 
 		int[] numbers = { 1, 2, 3, 4, 5, 6, -1, 8, 9, 10, 11, 12, 13 };
 		int bigNumber = numbers[0];
